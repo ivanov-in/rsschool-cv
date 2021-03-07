@@ -11,10 +11,10 @@ Telegram: @ilyaivanovru
 My goal is to become a frontend developer.
 
 ## Skills:
-*Java
-*HTML
-*CSS
-*GIT
++ Java
++ HTML
++ CSS
++ GIT
 
 ## Code examples: 
 ```
@@ -40,8 +40,8 @@ function partition(arr, start, end){
 ## Work experience:
 
 ## Education:
-*SPBSTU, Software Engineering
-*Technopolis (Mail.ru), Introduction to Java
++ SPBSTU, Software Engineering
++ Technopolis (Mail.ru), Introduction to Java
 
 ## English language:
 A2 (Pre-intermediate) 
