@@ -3,8 +3,10 @@
 ***
 
 ## Contacts:
-E-mail: work.ivanov.in@gmail.com </br>
-Telegram: @ilyaivanovru </br>
+E-mail: work.ivanov.in@gmail.com
+
+Telegram: @ilyaivanovru
+
 [Vk](https://vk.com/id160078642)
 
 ## About me:
