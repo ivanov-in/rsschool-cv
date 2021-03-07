@@ -36,3 +36,12 @@ function partition(arr, start, end){
     return pivotIndex;
 };
 ```
+
+## Work experience:
+
+## Education:
+*SPBSTU, Software Engineering
+*Technopolis (Mail.ru), Introduction to Java
+
+## English language:
+A2 (Pre-intermediate) 
