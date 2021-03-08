@@ -2,21 +2,21 @@
 
 ***
 
-## Contacts:
+## Contacts
 + E-mail: work.ivanov.in@gmail.com
 + Telegram: @ilyaivanovru
 + [Vk](https://vk.com/id160078642)
 
-## About me:
+## About me
 My goal is to become a frontend developer.
 
-## Skills:
+## Skills
 + Java
 + HTML
 + CSS
 + GIT
 
-## Code examples: 
+## Code examples 
 ```
 function partition(arr, start, end){
     // Taking the last element as the pivot
@@ -37,11 +37,11 @@ function partition(arr, start, end){
 };
 ```
 
-## Work experience:
+## Work experience
 
-## Education:
+## Education
 + SPBSTU, Software Engineering
 + Technopolis (Mail.ru), Introduction to Java
 
-## English language:
+## English language
 A2 (Pre-intermediate) 
